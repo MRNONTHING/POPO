@@ -58,4 +58,4 @@ Popo simplifies GIF management on Telegram. By leveraging Telegram's Inline Quer
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
